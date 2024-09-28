@@ -1,1 +1,1 @@
-# Do not open the file called File.md
+# Do not read the repository description
