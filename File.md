@@ -1,1 +1,1 @@
-# Do not read the repository description
+# Do not go to the issues tab
